@@ -1,0 +1,18 @@
+development:
+  cloud_name: dhcy32o8d
+  api_key: '784185965626448'
+  api_secret: WZ-IQNalXhaND33js4oTvC2S3rA
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dhcy32o8d
+  api_key: '784185965626448'
+  api_secret: WZ-IQNalXhaND33js4oTvC2S3rA
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dhcy32o8d
+  api_key: '784185965626448'
+  api_secret: WZ-IQNalXhaND33js4oTvC2S3rA
+  enhance_image_tag: true
+  static_image_support: false
